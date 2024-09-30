@@ -1,4 +1,4 @@
-# Hi!:wave:
+# Hi! :wave:
 
   ### Learning GitHub again
 _a learner and adventurist_ :sparkles:
