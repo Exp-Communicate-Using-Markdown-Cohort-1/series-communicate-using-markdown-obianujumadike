@@ -3,9 +3,16 @@
   ### Learning GitHub again
 _a learner and adventurist_ :sparkles:
 
-```md
-![Image of A female designer](https://octodex.github.com/images/cybergirl.jpg)
-```
+
+### learning plan 
+  
+  -  [ ] Log into github @8pm
+   -  [ ] Study GitHub class for 2 hours 
+   -  [ ] Practice on GitHub Pages
+   -  [ ] Outline my Portfolio
+   -  [ ] Share with the world 
+  
+###### Quote:to be the best you have to work for it
 
 ### :keyboard: Activity: Adding an image
 
@@ -57,15 +64,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 -->
 
 
-### learning plan 
-  
-  -  [ ] Log into github @8pm
-   -  [ ] Study GitHub class for 2 hours 
-   -  [ ] Practice on GitHub Pages
-   -  [ ] Outline my Portfolio
-   -  [ ] Share with the world 
-  
-###### Quote:to be the best you have to work for it
 
 ### What's next?
 
