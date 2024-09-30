@@ -1,20 +1,11 @@
+# Hi!:wave:
 
-<!--
-  <<< Hi!>>>
-  #Learning GitHub again
-_a learner and adventurist_
-<to be the best you have to work for it>
-
--->
-
-
- :wave:
-:sparkles:
+  ### Learning GitHub again
+_a learner and adventurist_ :sparkles:
 
 ```md
 ![Image of A female designer](https://octodex.github.com/images/cybergirl.jpg)
 ```
-
 
 ### :keyboard: Activity: Adding an image
 
@@ -74,44 +65,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
    -  [ ] Outline my Portfolio
    -  [ ] Share with the world 
   
-
-<details id=5>
-<summary><h2>Step 5: Merge your pull request</h2></summary>
-
-_Great job adding a task list to the file :heart:_
-
-You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
-
-### :keyboard: Activity: Merge your pull request
-
-1. Under your repository name, click Pull requests.
-   ![repo-tabs-pull-requests](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown/assets/107881423/a5351683-be08-4f46-83b4-864dae00c70a)
-
-1. In the “Pull Requests” list, click the pull request you’d like to merge.
-1. Scroll down to the bottom of the pull request Click **Merge pull request**.
-   ![merge PR](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown/assets/107881423/7dfd1089-7ad1-4e49-b18b-e2630d05cf14)
-
-1. Wait about 20 seconds then refresh this page for the next step.
-
-</details>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-<details id=X>
-<summary><h2>Finish</h2></summary>
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-1. You learned about Markdown, headings, images, code examples, and task lists.
-1. You created and merged a Markdown file.
-1. You learned an essential GitHub skill. 🎉
+###### Quote:to be the best you have to work for it
 
 ### What's next?
 
